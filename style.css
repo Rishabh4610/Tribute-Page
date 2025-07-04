@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: #030911;
+    min-height: 100vh;
+    border: 10px solid #139aac;
+}
+.content,h1 {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.blue{
+    color: #084ad8;
+}
+.yellow{
+    color: #8bc406;
+}
+.content h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #14b693;
+}
+.middle{
+    margin-top: 50px;k
+    display: flex;
+    justify-content:space-between;
+}
+.middle,h2{
+    text-align:end;
+    margin-top: 20px;
+    color: #54a80fe8;
+}
+.content img{
+    width: 300px;
+    height: 320px;
+    ;
+}
+.biogr, p{
+    font-size:20px ;
+    line-height: 30px;
+    letter-spacing: 1.4px;
+    margin-bottom: 50px;
+    color: #af0808;
+    }
+.biogr,h1{
+    margin-bottom: 40px;
+}
